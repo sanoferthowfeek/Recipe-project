@@ -1,0 +1,36 @@
+.about{
+    background-color: #fce4ec;
+  }
+  
+  .head{
+    justify-content: center;
+    align-items: center;
+    color:darkblue;
+    cursor: pointer;
+    font-size:x-large;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+
+  .allback{
+    display:inline;
+    margin: 20px;
+    float:right;
+    color: black;
+    width: 15 px;
+    height: 10 px;
+    background-color:white ;
+    border: 4px;
+    border-color: blue;
+    border-style:solid;
+  }
+  
+  
+  
+  .allback:hover{
+    background-color: #f48fb1;
+    color: black;
+    border-color: red;
+  }
+  
+  

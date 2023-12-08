@@ -1,0 +1,15 @@
+.signup{
+    /* background-color: #fce4ec; */
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://media.istockphoto.com/id/1098164024/photo/sandy-beach-and-clouds-sky-background.webp?b=1&s=170667a&w=0&k=20&c=9rHbCzO4Nkxfoo89STByXA-fMbRAh37oPm8PKll8J24=");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .form {
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+  }

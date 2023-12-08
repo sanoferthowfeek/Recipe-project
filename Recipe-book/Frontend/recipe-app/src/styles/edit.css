@@ -1,0 +1,27 @@
+.editrecipes{
+    height: 100vh;
+    width: 100%;
+  }
+
+  .allback{
+    display:inline;
+    margin: 20px;
+    float:right;
+    color: black;
+    width: 15 px;
+    height: 10 px;
+    background-color:white ;
+    border: 4px;
+    border-color: blue;
+    border-style:solid;
+  }
+  
+  
+  
+  .allback:hover{
+    background-color: #f48fb1;
+    color: black;
+    border-color: red;
+  }
+  
+  

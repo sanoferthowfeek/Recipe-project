@@ -1,0 +1,22 @@
+.home {
+    background-image: url("https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971556_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .home{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    width: 100vw;
+    color: green
+    
+  }
+
+  
+
+  .homehead{
+    text-align: center;
+    cursor: pointer;
+    color: darkred;
+  }

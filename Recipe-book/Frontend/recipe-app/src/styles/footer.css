@@ -1,0 +1,14 @@
+footer {
+    text-align: center;
+    padding: 3px;
+    /* background-color: white; */
+    color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .strong{
+    color: yellow;
+  }
